@@ -1,8 +1,6 @@
 # T30JavaScript
 
 
-# T29TablasDIV
-
 ## [Ej1]()
 
 ## [Ej2]()
